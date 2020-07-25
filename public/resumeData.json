@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name":"Scott Halasy",
+    "occupation":"Product Manager",
+    "description":"Hi there, nice to meet you! I'm an experienced & passionate Product Manager based in Chicago, and proud Michigan native. Please don't hesitate to reach out to get to know me; I love making new friends!",
+    "image":"profilepic.jpg",
+    "bio":"I have a diverse background and wide range of skills and experiences including Product Management, Finance, Accounting, and Data Analytics. I'm genuinely passionate about business and technology and leveraging both to solve problems, address market needs, and advance economic growth for all. When not focused on my work, you might find me running along Chicago's Lakefront, relishing the Great Outdoors hiking or biking somewhere, enjoying local brews, or jamming out to some music while pretending I can play guitar.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "address":{
+      "city":"Chicago",
+      "state":"IL",
+      "zip": "60614"
+    },
+    "website": "http://www.scotthalasy.com",
+    "resumedownload":"http://scotthalasy.com",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/scotthalasy/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/scottymichaelh",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/scottymichaelh",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+
+    "work":[
+      {
+        "company":"Rocketmiles",
+        "title":"Product Owner",
+        "years":"May 2019 - June 2020",
+        "description":"At Rocketmiles I successfully led a scrum team on the core e-commerce product. Working cross-functionally with engineering, data science, design, and senior leadership my team and I helped deliver core improvements to all areas of the site and user experience, leveraging data analysis, A/B testing, and user research."
+      },
+      {
+        "company":"Benzinga",
+        "title":"Product Project Manager",
+        "years":"Sept 2018 - May 2019",
+        "description":"At Benzinga I played an integral part in shaping the product team by working alongside the CTO and Director of Product Management to help build out development teams and focus on improvements to the core media site, trading platform, and data products."
+      },
+      {
+        "company":"Dickson Data",
+        "title":"Associate Product Manager",
+        "years":"Sept 2016 - Aug 2018",
+        "description":"As an Associate Product Manager, I was an integral part of the product team in overseeing the development and implementation of key new features for the flagship DicksonOne monitoring platform as well as the e-commerce site. Since 1923, Dickson has been changing the way organizations monitor their environments. With the trust of over 80,000 customers worldwide, Dickson helps to protect billions of dollars worth of assets and remains the industry leader."
+      },
+      {
+        "company":"MB Financial",
+        "title":"Business Analyst",
+        "years":"Jan 2016 - Sept 2016",
+        "description":""
+      },
+      {
+        "company":"DiMeo Schneider & Associates",
+        "title":"Investment Performance Analyst",
+        "years":"Sept 2014 - Dec 2015",
+        "description":"\n\nDiMeo Schneider & Associates, L.L.C. is a leading investment consulting firm located in Chicago, Illinois. The firm strives to provide impartial, cost effective investment consulting to plan sponsors, non-profit organizations and private clients. With a tight-knit firm of accredited and caring professionals, the firm has grown steadily to over 70 associates including 30 Consultants, over 25 performance and research analysts and 11 partners. DiMeo Schneider & Associates, L.L.C. delivers a variety of services including: investment policies, performance evaluation, asset allocation analysis, administrative/trustee search, asset liability analysis, spending policies, manager/fund search, and cost/benefit analysis. The firm prides itself on the level of service it provides to each client and a proactive approach."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Team Leadership",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"63%"
+      },
+      {
+        "name":"Python",
+        "level":"30%"
+      },
+      {
+        "name":"Advanced Excel",
+        "level":"65%"
+      },
+      {
+        "name":"Tableau/Chartio",
+        "level":"70%"
+      },
+      {
+        "name":"Scrum/Agile development",
+        "level":"75%"
+      },
+      {
+        "name":"Stakeholder management",
+        "level":"75%"
+      }
+    ],
+    "education":[
+      {
+        "school":"Wayne State University, Detroit",
+        "degree":"Bachelors in Finance & Accounting"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.scotthalasy.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Scott is an excellent product manager, with a passion for product ownership and project management. I worked with Scott on several projects at Rocketmiles. He led a team working on our flagship webapp, and did a great job managing stakeholder concerns and questions, as well as looking out for the team. He managed and prioritized the backlog, ran the team's agile meetings, drove visibility of what the team was up to, and in general worked constantly to improve the product and the team's experience. I would recommend Scott for any product-related role, due to his great attitude and ability to get things done.",
+        "user":"Steven Noto, Director of Engineering, Rocketmiles"
+      }
+    ]
+  }
+}
