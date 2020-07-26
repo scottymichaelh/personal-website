@@ -2,15 +2,16 @@
   "main": {
     "name":"Scott Halasy",
     "occupation":"Product Manager",
-    "description":"Hi there, nice to meet you! I'm an experienced & passionate Product Manager based in Chicago, and proud Michigan native. Please don't hesitate to reach out to get to know me; I love making new friends!",
+    "description":"Hi there, nice to meet you! I'm an experienced & passionate Product Manager based in Chicago, and proud Michigan native. Please don't hesitate to reach out to get to know me!",
     "image":"profilepic.jpg",
     "bio":"I have a diverse background and wide range of skills and experiences including Product Management, Finance, Accounting, and Data Analytics. I'm genuinely passionate about business and technology and leveraging both to solve problems, address market needs, and advance economic growth for all. When not focused on my work, you might find me running along Chicago's Lakefront, relishing the Great Outdoors hiking or biking somewhere, enjoying local brews, or jamming out to some music while pretending I can play guitar.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Let's chat.",
     "address":{
       "city":"Chicago",
       "state":"IL",
       "zip": "60614"
     },
+    "email": "scott.halasy@gmail.com",
     "website": "http://www.scotthalasy.com",
     "resumedownload":"http://scotthalasy.com",
     "social":[
