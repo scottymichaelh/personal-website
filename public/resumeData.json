@@ -42,6 +42,12 @@
 
     "work":[
       {
+        "company":"Freelance Contractor",
+        "title":"Product Strategy Consultant",
+        "years":"Sept 2020 - present",
+        "description":"As a freelance product consultant I worked with a small growing health food & supplement ecommerce company as an independent freelance consultant owning product analytics & user research. I conducted user research, developed user personas, and built analytics dashboards for segmentation, growth, and retention."
+      },
+      {
         "company":"Rocketmiles",
         "title":"Product Owner",
         "years":"May 2019 - June 2020",
@@ -116,6 +122,12 @@
         "category":"A React based resume website template",
         "image":"resume-website.jpg",
         "url":"http://www.scotthalasy.com"
+      },
+      {
+        "title":"Personal Blog/Twitter clone",
+        "category":"A Python-Flask project that will serve as my own personal blog + microblog (e.g. Twitter) where friends & followers can interact with each other.",
+        "image":"personal-blog.png",
+        "url":"https://scotttakes-blog.herokuapp.com/"
       }
     ]
   },
